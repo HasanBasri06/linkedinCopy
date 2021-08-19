@@ -1,4 +1,4 @@
-İş dünyasında çokca rastladığımız bir web uygulaması olan linkedin giriş ekranını html ve css le koppylamaya başladım 
+İş dünyasında çokca rastladığımız bir web uygulaması olan linkedin giriş ekranını html ve css le kopylamaya başladım 
 
 <h1>Ekran Görüntüleri</h2>
 
